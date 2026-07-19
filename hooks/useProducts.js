@@ -1,0 +1,1 @@
+const { products, loading, error } = useProducts();
