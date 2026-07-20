@@ -5,26 +5,17 @@ A modern and responsive **React E-Commerce Application** built with **Redux Tool
 ---
 
 ## 🚀 Live Demo
-
-> Add your deployed Vercel link here
-
-**Example:**
-```
-https://your-project.vercel.app
-```
+https://e-commerce-redux-8s5c.vercel.app/
 
 ---
 
 ## 📸 Preview
-
-> Add screenshots here
-
-- Home Page
-- Shop Page
-- Product Details
-- Shopping Cart
-- Checkout
-- Sidebar Filters
+<img width="1112" height="906" alt="Screenshot 2026-07-20 113609" src="https://github.com/user-attachments/assets/92adce1e-a8bf-4e3c-8ef7-0c34e1ca682b" />
+<img width="1101" height="906" alt="Screenshot 2026-07-20 113725" src="https://github.com/user-attachments/assets/32e7bf2d-3a2d-4dc3-9cfc-bf94bbc7272e" />
+<img width="1058" height="902" alt="Screenshot 2026-07-20 113949" src="https://github.com/user-attachments/assets/a75afe91-b8a7-44aa-8d1a-fdc0058b73bf" />
+<img width="1122" height="910" alt="Screenshot 2026-07-20 113756" src="https://github.com/user-attachments/assets/26da77b9-785e-44c8-b4a8-7fc40994fef9" />
+<img width="1106" height="881" alt="Screenshot 2026-07-20 113843" src="https://github.com/user-attachments/assets/d9afc925-1684-4aff-b802-84400280ff13" />
+<img width="1103" height="905" alt="Screenshot 2026-07-20 113913" src="https://github.com/user-attachments/assets/6f76d802-100e-4569-9c9e-3417cd0ccdb7" />
 
 ---
 
@@ -250,39 +241,6 @@ The application uses several React optimization techniques:
 - useCallback
 - Redux Global State
 - Optimized Component Rendering
-
----
-
-# 📖 Sprint Objectives Covered
-
-## ✅ Phase 1 – Base Architecture
-
-- Redux Toolkit Integration
-- React Redux Provider
-- Global Store
-- Cart Migration from Context API
-- Redux Slice Architecture
-
----
-
-## ✅ Phase 2 – State Integration
-
-- Sidebar Filters
-- Category Filter
-- Price Filter
-- Search
-- Sorting
-- Global Filter State
-
----
-
-## ✅ Phase 3 – Optimization
-
-- useMemo
-- useCallback
-- React.memo
-- Optimized Rendering
-
 ---
 
 # 🎯 Learning Outcomes
@@ -309,6 +267,4 @@ This project is developed for educational purposes as part of a Frontend Enginee
 
 # 👨‍💻 Author
 
-**Vansh Saxena**
-
-GitHub: https://github.com/vansh21827
+**Vansh Bansal**
